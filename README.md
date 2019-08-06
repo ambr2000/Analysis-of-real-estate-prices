@@ -1,1 +1,1 @@
-# Analysis-of-real-estate-prices
+Due to presonal reasons I had to collect and analyse information about real-estate offers in Kaluga (town newt to Moscow,Russia). Information was collected from public sources (mainly newspapers and real-estate agencies). All flats in analysis correspond to following pattern: 1-bedroom, cental location near Stadium, secondary housing market.
